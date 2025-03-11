@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileShareV2", "FileShareV2\FileShareV2.csproj", "{10A09467-7ABC-44CF-944C-B174CCE1EC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D6D2376C-EA95-4610-B795-1CD68BDB634A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A09467-7ABC-44CF-944C-B174CCE1EC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A09467-7ABC-44CF-944C-B174CCE1EC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A09467-7ABC-44CF-944C-B174CCE1EC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A09467-7ABC-44CF-944C-B174CCE1EC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D2376C-EA95-4610-B795-1CD68BDB634A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D2376C-EA95-4610-B795-1CD68BDB634A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D2376C-EA95-4610-B795-1CD68BDB634A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D2376C-EA95-4610-B795-1CD68BDB634A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
